@@ -8,7 +8,7 @@ def main():
     if NumberTests.isThreeOrFive(i):
       total += i
 
-  print(total)
+  print(total) 
 
 
 if __name__ == '__main__':
